@@ -20,3 +20,5 @@ After installation, set your UNIX username and password (blind typing).
 Update/Upgrade packages and software by typing this command `sudo apt update && sudo apt upgrade`.
 
 [Follow this documentation for more information](https://learn.microsoft.com/en-us/windows/wsl/setup/environment#set-up-your-linux-username-and-password)
+
+[Top 50 Linux Commands A Regular User Should Know](https://www.digitalocean.com/community/tutorials/linux-commands)
